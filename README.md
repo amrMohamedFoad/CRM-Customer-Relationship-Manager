@@ -1,5 +1,7 @@
 # CRM-Customer-Relationship-Manager
 
+simple CRUD app using (MySQL, Java, Spring MVC, Hibernate, Maven, Apache Tomcat) to add, update, read, delete customers withsimple ui
+
 To use it:
 ---------
 

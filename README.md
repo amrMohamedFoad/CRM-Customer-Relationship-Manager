@@ -14,4 +14,6 @@ To use it:
 
 # Architecture (MVC)
 --------------------
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 https://github.com/amrMohamedFoad/CRM-Customer-Relationship-Manager/blob/master/Architecture.png

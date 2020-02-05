@@ -21,7 +21,7 @@ simple CRUD app using (MySQL, Java, Spring MVC, Hibernate, Maven, Apache Tomcat)
 3- Model-view-controller (MVC)
 
 
-# Architecture (MVC)
+# Architecture
 
 ![Architecture](https://github.com/amrMohamedFoad/CRM-Customer-Relationship-Manager/blob/master/Architecture.png
 )

@@ -11,9 +11,17 @@ To use it:
 
 3- run it on server
 
+# Pattern Used:
+--------------
+
+1- Data Access Object (DAO)
+
+2- Facade pattern
+
+3- Model-view-controller (MVC)
 
 # Architecture (MVC)
 --------------------
-![Image of Architecture](https://github.com/amrMohamedFoad/CRM-Customer-Relationship-Manager/blob/master/Architecture.png
+![Architecture](https://github.com/amrMohamedFoad/CRM-Customer-Relationship-Manager/blob/master/Architecture.png
 )
 

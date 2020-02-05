@@ -2,8 +2,8 @@
 
 simple CRUD app using (MySQL, Java, Spring MVC, Hibernate, Maven, Apache Tomcat) to add, update, read, delete customers withsimple ui
 
-To use it:
----------
+# To use it:
+-----------
 
 1- clone or download it
 

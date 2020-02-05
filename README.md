@@ -2,8 +2,8 @@
 
 simple CRUD app using (MySQL, Java, Spring MVC, Hibernate, Maven, Apache Tomcat) to add, update, read, delete customers withsimple ui
 
+
 # To use it:
------------
 
 1- clone or download it
 
@@ -11,8 +11,8 @@ simple CRUD app using (MySQL, Java, Spring MVC, Hibernate, Maven, Apache Tomcat)
 
 3- run it on server
 
+
 # Pattern Used:
---------------
 
 1- Data Access Object (DAO)
 
@@ -20,8 +20,9 @@ simple CRUD app using (MySQL, Java, Spring MVC, Hibernate, Maven, Apache Tomcat)
 
 3- Model-view-controller (MVC)
 
+
 # Architecture (MVC)
---------------------
+
 ![Architecture](https://github.com/amrMohamedFoad/CRM-Customer-Relationship-Manager/blob/master/Architecture.png
 )
 
